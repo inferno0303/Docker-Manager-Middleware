@@ -4,6 +4,8 @@
 
 作用：基于Docker api实现RESTFul API，作为中间件供上层调用
 
+**本仓库包含了前后端工程**
+
 ## 目录结构
 
 1. controller：API响应
